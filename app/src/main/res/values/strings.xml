@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BIO_APP</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_gender">Enter Your Gender</string>
+    <string name="gender">Gender</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="female">Female</string>
+    <string name="submit">SUBMIT</string>
+    <string name="male">Male</string>
+    <string name="hello">Hello</string>
+    <string name="devloper_pratham_yadav_2020bteit00006">Devloper-Pratham Yadav 2020BTEIT00006</string>
+</resources>
